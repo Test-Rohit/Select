@@ -7,7 +7,7 @@ public class Testing {
 		System.out.println("This is testing class");
 		
 		
-		
+		System.out.println("This java class");
 	}
 
 }
